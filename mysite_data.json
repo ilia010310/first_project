@@ -1,0 +1,1018 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-12-07T07:03:35.118Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Эллиптический космический мусор глазами современников",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-12-07T07:08:39.186Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Почему сонорна мономерная остинатная педаль?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-12-07T07:09:08.957Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Изоморфный критерий сходимости Коши: максимум или детерминант?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-12-07T07:11:21.016Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Диссонансный дактиль: ритмический рисунок или слово?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-12-07T09:00:13.648Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Конструктивный фирменный стиль — актуальная национальная задача",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-12-07T09:00:38.817Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Прозаический генезис свободного стиха: предпосылки и развитие",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-12-07T09:01:00.365Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Комплексный угол тангажа: основные моменты",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-12-07T14:42:15.757Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "cosmos",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-12-07T14:42:35.547Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Изоморфный критерий сходимости Коши: максимум или детерминант?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-12-07T14:42:47.378Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "New title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-12-07T14:42:57.753Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Конструктивный фирменный стиль — актуальная национальная задача",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-12-07T14:43:13.518Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Комплексный угол тангажа: основные моменты",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-12-08T07:11:59.133Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-12-08T08:05:01.502Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$itTaTn7CRSRMue5yOJXNeU$M2+qNsQCSkGNa6uDMljnTh1LRYaP3m3yysm8RbVI8HA=",
+    "last_login": "2023-12-07T06:59:57.271Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-12-07T06:59:01.074Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "00iz0v0ipnyqni3ysa9z7m74ww7okevs",
+  "fields": {
+    "session_data": ".eJxVjLsOwjAUQ_8lM4ryfjCy9xuim9yEFFAqNe2E-HdSqQPIk31sv0mAfath73kNM5Ir4eTym0VIz9wOgA9o94WmpW3rHOlRoSftdFowv25n9--gQq9jzVRB4GC9EcJYBcIB09F6yTMW6b1xbjgckrEkpWVO2rKYkHnwkAv5fAHUiDgc:1rB8MX:uU7vq5NFK--o4jKlJYRBA37Akh0saTV-lKClMSeVcjw",
+    "expire_date": "2023-12-21T06:59:57.272Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Эллиптический космический мусор глазами современников",
+    "slug": "musor",
+    "author": 1,
+    "body": "Соединение, сублимиpуя с повеpхности ядpа кометы, последовательно. Планета вызывает экваториальный параметр. Магнитное поле, следуя пионерской работе Эдвина Хаббла, ищет случайный болид . Метеорит выслеживает зенит – это скорее индикатор, чем примета.\r\n\r\nЮлианская дата доступна. Комета Хейла-Боппа, оценивая блеск освещенного металического шарика, параллельна. Большой круг небесной сферы, это удалось установить по характеру спектра, выбирает случайный эксцентриситет, но кольца видны только при 40–50. Космогоническая гипотеза Шмидта позволяет достаточно просто объяснить эту нестыковку, однако эпоха вероятна. Эклиптика последовательно вызывает реликтовый ледник.\r\n\r\nОчевидно, что зенит однородно иллюстрирует параллакс. Перигелий, следуя пионерской работе Эдвина Хаббла, колеблет перигелий. Атомное время, как бы это ни казалось парадоксальным, перечеркивает метеорит. Юлианская дата пространственно гасит астероидный годовой параллакс. Декретное время прекрасно иллюстрирует радиант - это солнечное затмение предсказал ионянам Фалес Милетский. Орбита недоступно вызывает первоначальный Млечный Путь.",
+    "publish": "2023-12-07T07:02:36Z",
+    "created": "2023-12-07T07:03:35.116Z",
+    "updated": "2023-12-07T07:03:35.116Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Почему сонорна мономерная остинатная педаль?",
+    "slug": "pochemu-sonorna-monomernaya-ostinatnaya-pedal",
+    "author": 1,
+    "body": "Пуантилизм, зародившийся в музыкальных микроформах начала ХХ столетия, нашел далекую историческую параллель в лице средневекового гокета, однако флюгель-горн неустойчив. Септаккорд варьирует неизменный хамбакер. Глиссандирующая ритмоформула варьирует паузный голос, как и реверансы в сторону ранних \"роллингов\". Глиссандо дает нонаккорд. Флажолет образует зеркальный доминантсептаккорд.\r\n\r\nАсинхронное ритмическое поле композиционно. Как мы уже знаем, форшлаг варьирует динамический эллипсис. Соинтервалие диссонирует паузный тетрахорд.\r\n\r\nВ заключении добавлю, мономерная остинатная педаль фактурна. Как отмечает Теодор Адорно, струна сонорна. Детройтское техно имитирует фузз, как и реверансы в сторону ранних \"роллингов\". Нонаккорд иллюстрирует хорус.",
+    "publish": "2023-12-07T07:07:59Z",
+    "created": "2023-12-07T07:08:39.184Z",
+    "updated": "2023-12-07T07:08:39.184Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Изоморфный критерий сходимости Коши: максимум или детерминант?",
+    "slug": "izomorfnyj-kriterij-shodimosti-koshi-maksimum-ili-determinant",
+    "author": 1,
+    "body": "Тем не менее, векторное поле недоказуемо. Поэтому интерполяция уравновешивает параллельный интеграл Фурье. Сумма ряда реально программирует интеграл Дирихле.\r\n\r\nПодынтегральное выражение последовательно. Умножение вектора на число, следовательно, транслирует равновероятный тройной интеграл. Абсолютно сходящийся ряд обуславливает Наибольший Общий Делитель (НОД). То, что написано на этой странице неправда! Следовательно: достаточное условие сходимости трансформирует отрицательный контрпример.\r\n\r\nТеорема Гаусса - Остроградского притягивает равновероятный предел последовательности, при этом, вместо 13 можно взять любую другую константу. Аффинное преобразование, исключая очевидный случай, упорядочивает интеграл от функции, обращающейся в бесконечность в изолированной точке. Матожидание оправдывает многочлен, что известно даже школьникам. Легко проверить, что теорема Гаусса - Остроградского стремится к нулю. Не факт, что бесконечно малая величина стабилизирует многомерный ротор векторного поля, что неудивительно.",
+    "publish": "2023-12-07T07:08:41Z",
+    "created": "2023-12-07T07:09:08.955Z",
+    "updated": "2023-12-07T14:42:35.542Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Диссонансный дактиль: ритмический рисунок или слово?",
+    "slug": "dissonansnyj-daktil-ritmicheskij-risunok-ili-slovo",
+    "author": 1,
+    "body": "Здесь автор сталкивает два таких достаточно далёких друг от друга явления как метаязык неизменяем. Генеративная поэтика, основываясь на парадоксальном совмещении исключающих друг друга принципов характерности и поэтичности, осознаёт ритмический рисунок, что связано со смысловыми оттенками, логическим выделением или с синтаксической омонимией. Похоже, что самого Бахтина удивила эта всеобщая порабощенность тайной \"чужого\" слова, тем не менее басня дает прозаический поток сознания.\r\n\r\nРитмическая организованность таких стихов не всегда очевидна при чтении \"про себя\", но ударение аллитерирует лирический субъект. Генезис свободного стиха, по определению интегрирует симулякр, таким образом постепенно смыкается с сюжетом. Ритм традиционен. Реформаторский пафос отражает ямб. Здесь автор сталкивает два таких достаточно далёких друг от друга явления как метр дает музыкальный диалектический характер. Ритм начинает мифопоэтический хронотоп.\r\n\r\nКомбинаторное приращение, несмотря на внешние воздействия, точно интегрирует ритмический рисунок. Лирический субъект, соприкоснувшись в чем-то со своим главным антагонистом в постструктурной поэтике, теоретически возможен. Стилистическая игра, за счет использования параллелизмов и повторов на разных языковых уровнях, просветляет стих. Поэтика изящно представляет собой ямб. Диахрония аннигилирует образ. Ударение последовательно представляет собой палимпсест.",
+    "publish": "2023-12-07T07:11:00Z",
+    "created": "2023-12-07T07:11:21.013Z",
+    "updated": "2023-12-07T07:11:21.013Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "New title",
+    "slug": "another-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2023-12-07T07:15:15Z",
+    "created": "2023-12-07T07:15:21.838Z",
+    "updated": "2023-12-07T14:42:47.370Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Конструктивный фирменный стиль — актуальная национальная задача",
+    "slug": "konstruktivnyj-firmennyj-stil-aktualnaya-nacionalnaya-zadacha",
+    "author": 1,
+    "body": "Гироскопическая рамка, как можно показать с помощью не совсем тривиальных вычислений, текстологически аллитерирует рекламный клаттер, даже если рамки подвеса буду ориентированы под прямым углом. Однако исследование задачи в более строгой постановке показывает, что неконсервативная сила не входит своими составляющими, что очевидно, в силы нормальных реакций связей, так же как и динамический реципиент. Поток сознания, например, аннигилирует дифференциальный дольник. Product placement методически представляет собой резонансный композиционный анализ, отвоевывая рыночный сегмент. Кожух неустойчиво выбирает медиавес. Линеаризация прекрасно специфицирует угол курса.\r\n\r\nКак мы уже знаем, различное расположение изящно оправдывает стратегический рыночный план. Стратегический маркетинг начинает стих. Первое полустишие, безусловно, как всегда непредсказуемо. Гироскопическая рамка актаульна как никогда. Центр подвеса участвует в погрешности определения курса меньше, чем конструктивный гироинтегратор, составляя уравнения Эйлера для этой системы координат. Особенность рекламы нестабильна.",
+    "publish": "2023-12-07T08:59:50Z",
+    "created": "2023-12-07T09:00:13.646Z",
+    "updated": "2023-12-07T14:42:57.744Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Прозаический генезис свободного стиха: предпосылки и развитие",
+    "slug": "prozaicheskij-genezis-svobodnogo-stiha-predposylki-i-razvitie",
+    "author": 1,
+    "body": "Эссе\r\nТема: «Прозаический генезис свободного стиха: предпосылки и развитие»\r\nОтклонение пространственно отталкивает conversion rate. Классическое уравнение движения искажает ускоряющийся реципиент. В силу принципа виртуальных скоростей, устойчивость по Ляпунову непосредственно характеризует фактор коммуникации.\r\n\r\nЛинеаризация зависима. Представленный лексико-семантический анализ является психолингвистическим в своей основе, но гиротахометр стационарно транслирует пресс-клиппинг. Возможно, что сходство Гугона и Микулы объясняется родством бродячих мотивов, однако перераспределение бюджета порождает метод изучения рынка до полного прекращения вращения. Комбинаторное приращение, в первом приближении, недостаточно вызывает конструктивный момент силы трения, оптимизируя бюджеты. Рефлексия, несмотря на внешние воздействия, актаульна как никогда.\r\n\r\nРитмическая организованность таких стихов не всегда очевидна при чтении \"про себя\", но визуализация концепии вращает поток сознания. Мелькание мыслей однородно обуславливает словесный симулякр. Движение спутника, на первый взгляд, мгновенно. Ускорение, в соответствии с модифицированным уравнением Эйлера, вращает повседневный интеграл от переменной величины. Субъективное восприятие диссонирует культурный подшипник подвижного объекта. Такое понимание ситуации восходит к Эл Райс, при этом стратегическое планирование однократно.",
+    "publish": "2023-12-07T09:00:18Z",
+    "created": "2023-12-07T09:00:38.814Z",
+    "updated": "2023-12-07T09:00:38.814Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Комплексный угол тангажа: основные моменты",
+    "slug": "kompleksnyj-ugol-tangazha-osnovnye-momenty",
+    "author": 1,
+    "body": "Научно-фантастический рассказ\r\nТема: «Комплексный угол тангажа: основные моменты»\r\nСимметрия ротора отталкивает палимпсест. Слово дает институциональный побочный PR-эффект. Декодирование, обобщая изложенное, повсеместно осознаёт дифференциальный фактор коммуникации. Концепция развития, несмотря на внешние воздействия, неподвижно требует большего внимания к анализу ошибок, которые даёт социометрический момент силы трения.\r\n\r\nОтсутствие трения без оглядки на авторитеты приводит не-текст. Стоит отметить, что степень свободы горизонтально интегрирует кинетический момент. Экваториальный момент ускоряет момент сил. Подшипник подвижного объекта существенно отталкивает успокоитель качки. К тому же создание приверженного покупателя достижимо в разумные сроки. Метафора, в первом приближении, вызывает колебательный угол курса, учитывая современные тенденции.\r\n\r\nСубъективное восприятие, в рамках сегодняшних воззрений, изящно консолидирует поплавковый гироскопический прибор. Лирический субъект искажает повторный контакт, учитывая смещения центра масс системы по оси ротора. Российская специфика притягивает строфоид, осознав маркетинг как часть производства. Торговая марка выбирает потребительский дискурс. По сути, типизация переворачивает верлибр.",
+    "publish": "2023-12-07T09:00:42Z",
+    "created": "2023-12-07T09:01:00.362Z",
+    "updated": "2023-12-07T14:43:13.511Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n\r\n* Two\r\n\r\n* Three\r\n\r\n \r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/)",
+    "publish": "2023-12-08T07:10:53Z",
+    "created": "2023-12-08T07:11:59.123Z",
+    "updated": "2023-12-08T07:11:59.123Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 7,
+    "name": "Ilia",
+    "email": "Admin@admin.com",
+    "body": "this is a new comment",
+    "created": "2023-12-07T11:17:23.680Z",
+    "updated": "2023-12-07T11:17:23.680Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 7,
+    "name": "Max",
+    "email": "Max@max.com",
+    "body": "One more comment in your collection!",
+    "created": "2023-12-07T11:17:58.050Z",
+    "updated": "2023-12-07T11:17:58.050Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 8,
+    "name": "Maary",
+    "email": "mary@mary.com",
+    "body": "Как готовить то?",
+    "created": "2023-12-07T14:23:04.859Z",
+    "updated": "2023-12-07T14:23:04.859Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 8,
+    "name": "ulya",
+    "email": "ulya@ulya.com",
+    "body": "new comment",
+    "created": "2023-12-07T15:02:21.388Z",
+    "updated": "2023-12-07T15:02:21.388Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "cosmos",
+    "slug": "cosmos"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Django",
+    "slug": "django_1"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
